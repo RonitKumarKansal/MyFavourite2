@@ -19,3 +19,12 @@ img {
     border-radius: 50%;
     width: 300px;
 }
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    
+    
